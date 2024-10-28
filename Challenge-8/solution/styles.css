@@ -1,0 +1,10 @@
+.centered-box {
+  width: 200px;       
+  margin: 0 auto;
+  background-color: red;
+  height: 100px;
+}
+
+.centered-box h1{
+  padding: 30px;
+}
