@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+}
+
+form{
+  border:2px solid yellow;
+  padding: 30px;
+}
+
+label{
+  color:green;
+}
+
+button{
+  background-color: yellow;
+}
+
+button:hover{
+  background-color: darkgreen;
+}
