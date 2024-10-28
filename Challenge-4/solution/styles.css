@@ -1,0 +1,11 @@
+div{
+  background-color: lightgray;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  margin:50px;
+}
+
+div h1{
+  padding: 50px;
+}
