@@ -1,0 +1,8 @@
+div{
+  background-color: lightcoral;
+}
+
+div:hover{
+  background-color: red;
+  color:yellow;
+}
