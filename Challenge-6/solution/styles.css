@@ -1,0 +1,14 @@
+body{
+  border:3px dotted green;
+  place-items: center;
+}
+
+a:hover{
+  color:red;
+}
+
+a:visit{
+  color:purple;
+}
+
+
