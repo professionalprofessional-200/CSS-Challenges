@@ -1,0 +1,20 @@
+.container {
+  width: 100%;       
+  overflow: hidden;  
+}
+
+.column {
+  width: 50%;       
+  float: left;       
+  box-sizing: border-box; 
+  position:absolute;
+}
+
+
+.column2 {
+  width: 50%;       
+  float: right; 
+  box-sizing: border-box; 
+  position:relative;
+}
+
