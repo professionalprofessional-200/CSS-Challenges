@@ -1,0 +1,43 @@
+.box {
+            width: 200px;
+            height: 100px;
+            border: 2px solid black;
+            overflow: hidden;
+        }
+        
+        .box2 {
+            width: 200px;
+            height: 100px;
+            border: 2px solid black;
+            overflow: auto;
+        }
+        
+        .box3 {
+            width: 200px;
+            height: 100px;
+            border: 2px solid black;
+            overflow: scroll;
+        }
+        
+        .box4 {
+            width: 200px;
+            height: 100px;
+            border: 2px solid black;
+            overflow-x: scroll;
+           overflow-y: hidden;
+            
+        }
+        
+        .box5 {
+            width: 200px;
+            height: 100px;
+            border: 2px solid black;
+            overflow: clip;
+        }
+        
+        .box6 {
+            width: 200px;
+            height: 100px;
+            border: 2px solid black;
+            overflow: visible;
+        }
